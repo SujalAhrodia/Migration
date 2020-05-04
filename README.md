@@ -5,7 +5,7 @@ Migrate repository from Github Enterprise to Open-Source Github
 
 1. Clone the repository:
 ```
-
+git clone https://github.com/SujalAhrodia/Migration.git
 ```
 2. From the directory, give exectuable permissions to the script:
 ```
